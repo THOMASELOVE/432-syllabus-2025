@@ -25,7 +25,6 @@ TA Name | For more, visit | Current Roles and CWRU Experiences
 Monika Strah | @sec-monika | Co-Lead TA, PhD candidate, Clinical Translational Science
 Alex Olejko | @sec-alex | Co-Lead TA, PhD candidate, Psychological Sciences
 Hala Nas | @sec-hala | MS in Clinical Research, Physician, CCF
-Kartik Lakhotiya | @sec-kartik | PhD candidate, Biomedical Scientist Training Program
 Kathryn Menta | @sec-kathryn | PhD Candidate, Epidemiology & Biostatistics
 Marie Masotya | @sec-marie | PhD candidate, Clinical Translational Science
 Miza Salim Hammoud | @sec-miza | MS in Clinical Research, Fellow, CCF
@@ -50,11 +49,6 @@ Alex is a PhD candidate in the Developmental, Cognitive, and Affective Sciences 
 
 Hala Nas is a pulmonary & critical care physician at the Cleveland Clinic. Her areas of interest include lung cancer and pleural diseases.  She completed her MS in Clinical Research in May 2024. Her research interests include methodology and guideline synthesis in pleural diseases, as well as large data analysis in lung cancer. In her free time, she enjoys traveling, hiking, watching thriller movies and reading crime fiction.
 
-### Kartik Lakhotiya {#sec-kartik}
-
-![Kartik Lakhotiya](images/Kartik_Lakhotiya.png){width=40%}
-
-Kartik Lakhotiya is a PhD student in the Biomedical Scientist Training Program, focused on advancing medical research through a blend of skills in Immunology, Genetics, Bioinformatics, Machine Learning, and Cancer Biology. He took PQHS431 in the fall of 2023 and found the subject incredibly engaging. Motivated by his interest in data analytics, Kartik decided to become a Teaching Assistant for the course, believing that teaching would not only reinforce his knowledge but also sharpen his analytical abilities, which are crucial for his research in Immune Genetics.
 
 ### Kathryn Menta {#sec-kathryn}
 
