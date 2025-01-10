@@ -27,7 +27,6 @@ Alex Olejko | @sec-alex | Co-Lead TA, PhD candidate, Psychological Sciences
 Hala Nas | @sec-hala | MS in Clinical Research, Physician, CCF
 Kathryn Menta | @sec-kathryn | PhD Candidate, Epidemiology & Biostatistics
 Marie Masotya | @sec-marie | PhD candidate, Clinical Translational Science
-Miza Salim Hammoud | @sec-miza | MS in Clinical Research, Fellow, CCF
 Ria Tilve | @sec-ria | MPH at CWRU, Medical Student
 Sarah Albalawi | @sec-sarah | MPH Candidate, General Dentist
 
@@ -61,12 +60,6 @@ Kathryn Menta is a second year PhD student in Epidemiology and Biostatistics wit
 ![Marie Masotya](images/Marie_Masotya.png){width=40%}
 
 Marie Masotya, MPH, is a PhD student in the Clinical Translational Science program. She is Senior Research Coordinator at University Hospitals (UH) Rainbow Center for Child Health and Policy where she manages research, quality and community-based projects. She represents UH Rainbow on several multi-sectoral community partnerships focused on child health and health equity. These include Better Health Partnership, Lead Safe Cleveland Coalition, and the Community-Based Participatory Research Network. Marie took full advantage of TA support in Fall 2022 when she was a student in 431. She looks forward to returning that support to others this semester. When not doing research, you will find her enjoying live theater, music, and adventures with her spouse and 3 children.
-
-### Miza Salim Hammoud {#sec-miza}
-
-![Miza Salim Hammoud](images/Miza_Salim_Hammoud.png){width=40%}
-
-Miza Salim Hammoud is a Pediatric Bone Marrow Transplant Fellow at Cleveland Clinic Children’s Hospital and completed her Master of Science in Clinical Research (CRSP) program at Case Western Reserve University (CWRU) in August 2024. Her goal is to become a pediatric research scientist dedicated to improving healthcare by addressing factors that contribute to and exacerbate socioeconomic disparities, particularly among vulnerable populations within the pediatric community. During the 2022-2023 academic year, Miza completed CRSP 431 and 432, applying the valuable research skills acquired from these courses to her ongoing projects. Outside of academia and research, Miza enjoys playing piano, painting, and exploring new countries and cultures, embracing the richness of global adventures.
 
 ### Ria Tilve {#sec-ria}
 
